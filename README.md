@@ -12,7 +12,7 @@ My [Zed](https://zed.dev) editor configuration, set up to feel like a JetBrains 
 
 ## Highlights
 
-- **JetBrains-style keymap** (`base_keymap: JetBrains`) plus my own CLion shortcuts.
+- **JetBrains-style keymap** (`base_keymap: JetBrains`) plus my own shortcuts.
 - All custom `alt` shortcuts are listed in [Alt shortcuts](#alt-shortcuts).
 - **Python:** ruff format on save, organize imports and fix-all, 80-column ruler.
 - **C/C++:** clangd with clang-tidy, background indexing and `cmake-build-debug` as the compile commands directory.
